@@ -1,0 +1,16 @@
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.exe
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.deps.json
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.runtimeconfig.json
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.runtimeconfig.dev.json
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.dll
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\ref\SimpleChess.dll
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.pdb
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.csproj.AssemblyReference.cache
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.AssemblyInfo.cs
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.dll
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\ref\SimpleChess.dll
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.pdb
+C:\Users\Nanna\OneDrive\Skrivebord\Skole\SimpleChess\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.genruntimeconfig.cache
